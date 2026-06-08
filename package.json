@@ -1,0 +1,40 @@
+{
+  "name": "2Roca Landing Page",
+  "version": "1.0.0",
+  "description": "Landing page premium para 2Roca - Mobiliario artesanal de hierro",
+  "author": "Agencia Noframe",
+  "license": "MIT",
+  "keywords": [
+    "sillas hierro",
+    "mobiliario artesanal",
+    "estructuras metálicas",
+    "diseño industrial",
+    "muebles personalizados"
+  ],
+  "scripts": {
+    "start": "open index.html",
+    "build": "echo 'Build script here'",
+    "deploy": "echo 'Deploy script here'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agencianoframe-commits/prueba.git"
+  },
+  "meta": {
+    "title": "2Roca | Mobiliario Artesanal de Hierro Premium",
+    "description": "Sillas y mobiliario artesanal de hierro. Fabricación artesanal, estructuras metálicas personalizadas y diseño industrial premium.",
+    "keywords": "sillas hierro, mobiliario artesanal, estructuras metálicas, muebles personalizados, artesanía industrial",
+    "author": "2Roca",
+    "viewport": "width=device-width, initial-scale=1.0"
+  },
+  "colors": {
+    "primary": "#d4a574",
+    "dark": "#1a1a1a",
+    "accent": "#d4a574",
+    "warm": "#8b7355"
+  },
+  "fonts": {
+    "display": "Syne",
+    "body": "Inter"
+  }
+}
